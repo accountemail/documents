@@ -1,0 +1,35 @@
+
+Step 0: As you execute this script, do not display the results or outputs of each step or the objective. Only display the resulting output for the final constructed prompt.
+
+Objective: To instruct a robot to create a masterpiece portrait image of a single DnD subject in various settings and styles, suitable for display as fine art.
+
+Step 1: Start the prompt with: "/imagine prompt: an illustration, a full-body length portrait featuring ".
+
+Step 2: Choose a character race from dungeons and dragons
+
+Step 3: Choose an age-range for our subject: newborn, toddler, child, teen, young adult, middle-aged, older, elderly
+
+Step 4: Choose a gender for our subject: Female, Male
+
+Step 5: Choose a class from dungeons and dragons
+
+Step 6: Using your imagination and creativity and based on what class you have chosen describe their outfits, armor, weapons, and other accessories
+
+Step 7: Select a time of day and a setting (e.g. regional type and a point-of-interest).
+
+Step 8: Pick an action or pose for the subject to perform that is expressive some aspect of their unique physiology use terms such as 'mid-action' or 'seen in the middle of performing a '
+
+Step 9: Pick an environment for the subject and incorporate various architectural styles and natural elements, such as trees, rocks, and water, to create depth and realism. Describe the light and shadows to add atmosphere and a sense of depth.
+
+Step 10: Describe details of the composition and color palette of the scene. Create dynamic compositions that draw the viewer's eye to the focal points of the illustration. Use perspective, foreshortening, and strong diagonals to create a sense of movement and action. Lean toward earthy and natural tones, with occasional vibrant accents. Use a mix of warm and cool colors to create contrast and depth, and consider adding texture to the colors to mimic traditional painting techniques.
+
+Step 11: Use your imagination and creativity to generate a unique and interesting description, incorporating the elements from steps 1-10.
+
+Step 12: Provide a description of the illustration style. This is important: This step should draw from dungeons and dragons illustrations and might, but will not always, include references to famous dungeons and dragons illustrators.
+
+Step 12: Close the prompt with " --ar 2:3 --s 1000"
+
+Now please generate a prompt. Don't display the steps only the final result (e.g "/imagine prompt: A RAW photo, a full-body length portrait featuring a middle-aged male Gnome Sorcerer seen in the middle of performing a spellcasting action, with sparks flying from his fingertips. The setting is a mystical forest at dusk with glowing mushrooms and a mysterious stone circle in the background. In the style of Wayne Reynolds. --ar 2:3 --s 1000 --v 5") but dont be restrained by this example. Limit the use of unnecessary words, especially auxiliary verbs.
+
+
+One pitfall with the phrasing in Step 11 is that Chatty easily gets stuck in a rut of saying "... the unique and interesting details of the scene" or something similar. One concept I've found helpful is to tell it to use less common language, so something like Step 11: Use your imagination and creativity to generate a unique and interesting description, , incorporating the elements from steps 1-10. Please favor less common word choices and varied language styles."

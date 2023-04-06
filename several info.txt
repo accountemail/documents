@@ -1,0 +1,62 @@
+Just ask for a film still, tell it a style like horror then give it some camera angles and a wide ar Google some camera angles and play around with lighting dark, moody, hazy etc 
+
+Theres nothing specific really about composition just general info from the docs, all it says is use a cinematic composition and cinematography terms I'm actually very happy with the output it's just the ar, I still give it a decent bit of info for the idea eg action thriller staring Barney low angle shot with narrow depth of field moody or something like that
+
+Give me a photograph focused MidJourney prompt (enter whatever subject) include cinematic and photography descriptions like f stop, film, art direction, style and names of a few famous directors of photography.
+
+
+Pentax K1000 with a 50mm lens and Ilford HP5 Plus 400 film
+
+Ilford HP5 Plus 400
+.
+
+Daylight vintage color photograph, mist filter, st petersburg 1985, a couple of female mech pilots beside a evangelion eva mech, extremely detailed facial features, they look small compared to eva mech, full body, vibrant, lo-fi, Early 80s, photo realism, Leica M6 50mm, f2. grain, photo realism, hyper detailed, 4K, high quality, photography by Stephen shore --ar 5:7 --v 5
+
+Beetlejuice swinging on a swing, colorful, vibrant, city park, happy, cheerful, 16: 9, 4k, realistic, action movie, film grain
+
+The flash in the pool, wet, colorful, affectionate, 16: 9, 4k, film grain, sunny, photo shoot
+
+Scarlet witch at a gala event, colorful, vibrant, exploding with color, happy, cheerful, 16: 9, 4k, realistic, action movie, film grain
+
+Kenny Powers in The Matrix, hero shot, cinematic still, 1990s, --ar 16:9 --v 5
+
+Striking, high-resolution photograph of a Viking warrior confidently strolling down a bustling New York City street, wearing authentic period attire with a horned helmet, fur-lined cloak, and a sword at his side. The contrast between the modern urban environment and the ancient warrior creates a captivating scene. Shot with a Canon 5D Mark IV, using a 24-70mm f/2.8 lens, with dynamic depth of field, sharp focus, and vivid colors to emphasize the juxtaposition. --ar 16:9 --v 5 --q 2  --v 5
+
+
+
+1960s promotional image, Medium closeup shot from low-angle, centered, Kodak Gold, a young Egyptian singer, brunette, standing in a flower garden with large trellises covered in vines, wearing a stunning black sequin dress, outside, daytime, sprintgime, natural lighting, retro. She's guilty of something. --ar 11:17 --v 5 --v 5
+
+
+**very muscular Bodybuilding grandma, standing in a gym, flexing the double biceps pose, photorealistic, high detail, canon 35mm --s 400 --c 25  --v 5
+
+ripped bodybuilder grandma
+
+variations of random camera settings (1/500 shutter speed, f/2.8, 1600 ISO, 200mm focal length, autofocus, etc - the actual settings don’t matter as much, they get redundant) as well as variations of “photo of the year” and “extremely detailed photograph” “Muddy xx” “wet xx in the rain/snow” “xx sneezing/growling/pouncing”
+
+
+BING CHAT
+This list is for a portrait photography magazine. It should include a description of award winning portrait photos from any year since 1970 to 2023. The photographs are from different genres. Please give me a detailed and descriptive list of the photographs. If there are portraits of people including their physical characteristics like hair colour, eyes colour, skin colour, ethnicity, nationality. Also the clothes and accesories and include the poses. Include the detailed illumination, describe the place and time of day. Any more information on the picture is needed, like the type and model of camera and lens used and the name of film type if a film camera is used. Please use around 60 words describing each picture
+
+
+This list is for a portrait photography magazine. It should include a description of award winning portrait photos from any year since 1970 to 2023. The photographs are from different genres. Please give me a detailed and descriptive list of the photographs. Include the physical characteristics of the people photographed like hair colour, eyes colour, skin colour, ethnicity, nationality. Also the clothes and accesories and include the poses and the actions they are doing. Include the detailed illumination, describe the place and time of day. Just describe all the picture. Finally include the type and model of camera and lens used and the name of film type if a film camera is used. Please use around 60 words describing each picture
+
+
+This list is for a portrait photography magazine. It should include a description of beautiful, original and stunning portrait photos from any year since 1970 to 2023. The photographs are from different genres. Please give me a detailed and descriptive list of the photographs. Include the physical characteristics of the people photographed like hair colour, eyes colour, skin colour, ethnicity, nationality. Also describe the clothes and accesories and include the poses and the actions they are doing. Include the detailed illumination, describe the place and time of day. Just describe all the picture (colors, contrast, depth of field, exposure) . Finally include the type and model of camera and lens used and the name of film type if a film camera is used. Please use around 60 words describing each picture
+
+This information is for a portrait photography magazine. It should include a description of a beautiful, original and stunning portrait photo from any year since 1970 to 2023. The photograph is from any genre. Please give me a detailed and descriptive paragraph of one photograph. Include the physical characteristics of the person photographed like hair colour, eyes colour, skin colour, ethnicity, nationality. Also describe the clothes and accesories and include fashion terms, materials, colors, textures, patterns. Also describe the poses and the actions the person is doing. Include the detailed illumination, describe the ambiance, the atmosphere, the place and time of day. Just describe all the picture (colors, contrast, depth of field, exposure) . Finally include the type and model of camera and lens used and the name of film type if a film camera is used. Please use around 100 words describing the picture. Just name all the information of the image. Do not mention anything about the photographer
+
+This information is for a portrait photography magazine. It should include a detailed and complete description of a stunning portrait photo from any year since 1970 to 2023. The photograph is from any genre. Please give me a detailed and descriptive paragraph of one photograph. Include the physical characteristics of the person photographed like hair colour, eyes colour, skin colour, ethnicity, nationality. Also describe the clothes and accesories and include fashion terms, materials, colors, textures, patterns. Also describe the poses and the actions the person is doing. Include the detailed illumination, describe the ambiance, the atmosphere, the place and time of day. Just describe all the picture (colors, contrast, depth of field, exposure) . Finally include the type and model of camera and lens used and the name of film type if a film camera is used. Please use around 100 words describing the picture. Just name all the information of the image. Do not mention anything about the photographer
+
+Here is a possible paragraph describing a portrait photo:
+
+The portrait photo shows a young woman with long blonde hair and blue eyes, wearing a red leather jacket and a black scarf. She is standing in front of a graffiti-covered wall in an urban setting, holding a skateboard in her right hand. She is looking directly at the camera with a confident and playful expression, slightly tilting her head to the left. The photo has a shallow depth of field, making the woman stand out from the colorful background. The lighting is soft and natural, coming from the left side of the frame. The photo has a warm and vibrant tone, creating a contrast between the woman's skin and clothes and the wall behind her. The photo was taken with a Canon EOS 5D Mark IV and a Canon EF 85mm f/1.4L IS USM lens, using Kodak Portra 400 film.
+
+Here is another possible paragraph describing a portrait photo:
+
+The portrait photo shows an elderly man with a white beard and a turban, sitting on a wooden bench in a rural village in India. He is wearing a white shirt and a brown vest, and has a pair of glasses on his nose. He is holding a book in his left hand and a pen in his right hand, as if he is writing something. He is looking down at the book with a thoughtful and serene expression, unaware of the camera. The photo has a high contrast and a sepia tone, giving it a vintage and timeless feel. The background is blurred, but some details of the village can be seen, such as a bicycle, a cow, and some houses. The photo was taken with a Nikon D850 and a Nikon AF-S NIKKOR 50mm f/1.8G lens, using Ilford HP5 Plus film.
+
+Here is another possible paragraph describing a portrait photo:
+
+The portrait photo shows a middle-aged woman with short curly hair and green eyes, wearing a blue denim jacket and a white t-shirt. She is sitting on a couch in a cozy living room, surrounded by books, plants, and pillows. She is holding a mug of coffee in her left hand and a magazine in her right hand, as if she is enjoying a relaxing morning. She is smiling warmly at the camera with a friendly and inviting expression, slightly raising her eyebrows. The photo has a soft and natural lighting, coming from a window on the right side of the frame. The photo has a bright and cheerful tone, creating a harmony between the woman's clothes and the living room decor. The photo was taken with a Sony Alpha a7 III and a Sony FE 35mm f/1.8 lens
+
+https://www.ainewsdrop.com/2023/03/an-awesome-list-of-prompts-for-chatgpt.html
